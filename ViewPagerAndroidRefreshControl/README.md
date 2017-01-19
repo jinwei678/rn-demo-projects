@@ -16,3 +16,7 @@ $ react-native run-android
 在 react-native v0.36 之后，此问题已经解决。
 
 若想查看之前的效果，可以将 package.json 中的 react-native 依赖改为之前的版本，比如 `0.31.0`
+
+# 参见
+
+- https://github.com/facebook/react-native/issues/8090
